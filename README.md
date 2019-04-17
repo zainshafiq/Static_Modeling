@@ -1,4 +1,3 @@
-# User-Case-Diagram
-ENSE 470 U of R
-1. User case diagram
-2. User case description
+# ENSE 470 U of R
+
+In this assignment, you will perform a static design for an AmaZion Warehouse Manager system. 
